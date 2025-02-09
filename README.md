@@ -9,6 +9,9 @@ y muestra el nombre del amigo secreto de ese sorteo. Si no hay amigos insertados
 un mensaje indicando que no hay amigos por sortear al igual que si se sortean todos los amigos
 ingresados en la lista.
 
+Para ingresar al juego, se debe abrir el archivo index.html en el navegador web. El juego se
+ejecutará en el navegador web de la máquina local, por lo cual solo sera accesible desde la misma
+máquina que se ejecuto el archivo index.html.
 A continuación, se presenta una imagen que ilustra el funcionamiento del juego:
 
 ![Error por campo de nombre vacio](images/campo_vacio.png)
